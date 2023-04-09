@@ -1,0 +1,15 @@
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\bin\Debug\net6.0\5-Caracteres&Textos.exe
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\bin\Debug\net6.0\5-Caracteres&Textos.deps.json
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\bin\Debug\net6.0\5-Caracteres&Textos.runtimeconfig.json
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\bin\Debug\net6.0\5-Caracteres&Textos.dll
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\bin\Debug\net6.0\5-Caracteres&Textos.pdb
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.csproj.AssemblyReference.cache
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.AssemblyInfoInputs.cache
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.AssemblyInfo.cs
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.dll
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\refint\5-Caracteres&Textos.dll
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.pdb
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\5-Caracteres&Textos.genruntimeconfig.cache
+C:\Users\Pedro Klein\Documents\Codes\Alura\AprendendoCSharp\5-Caracteres&Textos\obj\Debug\net6.0\ref\5-Caracteres&Textos.dll
